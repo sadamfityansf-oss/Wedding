@@ -389,19 +389,13 @@
                 <div class="timeline-item">
                     <i class="fa-solid fa-check"></i>
                     <h4>استقبال الضيوف</h4>
-                    <p style="color: #666;">الساعة 07:00 مساءً</p>
-                </div>
-                <div class="timeline-item">
-                    <i class="fa-solid fa-check"></i>
-                    <h4>مراسم عقد القران والزفاف</h4>
                     <p style="color: #666;">الساعة 08:30 مساءً</p>
                 </div>
                 <div class="timeline-item">
                     <i class="fa-solid fa-check"></i>
-                    <h4>مأبة العشاء</h4>
-                    <p style="color: #666;">الساعة 10:00 مساءً</p>
-                </div>
-            </div>
+                    <h4>توديع و مباركة العروسين</h4>
+                    <p style="color: #666;">الساعة 08:30 مساءً</p>
+            
 
             <div style="margin-top: 40px;">
                 <p style="margin-bottom: 10px; font-weight: bold;"><i class="fa-solid fa-location-dot" style="color: var(--primary-dark);"></i> قاعة الملكي للاحتفالات - شارع الرئاسة</p>
@@ -410,7 +404,7 @@
         </section>
 
         <footer>
-            <p class="names-font" style="font-size: 1.5rem; margin-bottom: 5px;">أحمد & فاطمة</p>
+            <p class="names-font" style="font-size: 1.5rem; margin-bottom: 5px;">مصطفــــــى & أمانـــــــــي</p>
             <p style="font-size: 0.85rem; opacity: 0.8;">نتشرف بوجودكم لتمام فرحتنا</p>
         </footer>
     </div>
