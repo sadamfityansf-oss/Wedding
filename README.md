@@ -12,7 +12,7 @@
         :root {
             --primary-dark: #3a0d14; /* مصظفى تيسير مصطفى */
             --accent-gold: #c5a059;   /* ذهبي دافئ */
-            --light-bg: #fcf9f5;      /* خلفية كريمية ناعمة */
+            --light-bg: #89CFF0;      /* خلفية كريمية ناعمة */
             --text-color: #2b2b2b;
         }
 
