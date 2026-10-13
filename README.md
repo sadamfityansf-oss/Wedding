@@ -1,5 +1,3 @@
-# Wedding
-# WELCOME VISITORS 
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -512,8 +510,8 @@
         <h1 class="header-title animate-item delay-2">دعوة زفاف مباركة</h1>
         
         <p class="family-text animate-item delay-3">
-            تتشرف <b>عائلة مصطفى (العريس)</b><br>
-            و <b>عائلة فتيان (العروس)</b><br>
+            تتشرف <b>آل مصطفى (العريس)</b><br>
+            و <b>آل فتيان (العروس)</b><br>
             بدعوتكم لحضور حفل زفاف أبنائهم
         </p>
 
@@ -683,7 +681,7 @@
         // ----------------------------------------------------
         function addToCalendar() {
             const title = encodeURIComponent("حفل زفاف مصطفى & أماني");
-            const details = encodeURIComponent”حفل زفاف مصطفى آل مصطفى) وأماني (آل فتيان) في فندق سراج - جبل الحسين.");
+            const details = encodeURIComponent("حفل زفاف مصطفى (عائلة مصطفى) وأماني (عائلة فتيان) في فندق سراج - جبل الحسين.");
             const location = encodeURIComponent("فندق سراج، جبل الحسين، عمان");
             const calendarUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${title}&dates=20261019T163000Z/20261019T200000Z&details=${details}&location=${location}`;
             window.open(calendarUrl, '_blank');
